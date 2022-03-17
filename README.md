@@ -1,8 +1,7 @@
 # **WindowsKeyGrabber**
 ## ***Please Note This does not steal any License Keys for you. It just Grabs your License Key you have already.***
 
-!!! note
-This Is the main code of the Exe.
+!!! note This Is the main code of the Exe.
 
 ``` VB.net
 
@@ -20,5 +19,4 @@ Try
         End Try
 
 ```
-!!! info
-If You would like the Source Message me on Discord: [***CLICK ME TO JOIN DISCORD***](https://discord.gg/SdW8aw8Zaj)
+!!! info If You would like the Source Message me on Discord: [***CLICK ME TO JOIN DISCORD***](https://discord.gg/SdW8aw8Zaj)
